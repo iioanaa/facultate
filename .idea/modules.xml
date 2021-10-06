@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/facultate.iml" filepath="$PROJECT_DIR$/.idea/facultate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proiect_teri/proiect_teri.iml" filepath="$PROJECT_DIR$/proiect_teri/proiect_teri.iml" />
+    </modules>
+  </component>
+</project>
