@@ -1,3 +1,5 @@
+package clase;
+
 import java.util.Vector;
 
 public class Produse {
@@ -9,7 +11,6 @@ public class Produse {
         //this.sumaProduse = sumaProduse;
         this.returnareProduse = returnareProduse;
     }
-
 
     public int produseCumparate(){
         System.out.println(prd.toArray().length);

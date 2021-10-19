@@ -1,3 +1,5 @@
+package clase;
+
 public class Targhet {
     private double conversie;
     private double VMB;

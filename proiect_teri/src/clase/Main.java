@@ -1,8 +1,20 @@
-import java.util.Scanner;
-import java.util.Vector;
+package clase;
 
-public class Main {
+import java.util.Scanner;
+
+import Magazin.Menu;
+
+import javax.swing.*;
+
+public class Main{
     public static void main(String[] args) {
+        //UI
+        JFrame frame = new JFrame("LoginScreen");
+        frame.setContentPane(new Menu().LoginScreen);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setVisible(true);
+
 
         // am adaugat in plus revenirea la meniu
         System.out.println("\n \n Buna ziua, sunt programul Ruty \n \n");
